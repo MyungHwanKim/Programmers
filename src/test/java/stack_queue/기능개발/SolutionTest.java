@@ -1,4 +1,4 @@
-package queue.기능개발;
+package stack_queue.기능개발;
 
 import org.junit.jupiter.api.Test;
 
